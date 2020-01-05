@@ -1,15 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app/common/CommonContext.dart';
 import 'package:flutter_app/common/CommonRouters.dart';
-import 'package:flutter_app/home/main.dart';
 
 class UIPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: GridViewAction(),
-    );
+    return GridViewAction();
   }
 }
 
@@ -50,7 +47,6 @@ final List<ItemData> dataList = [
   ItemData(UIWidgetRoutersName[2], Icons.view_quilt, UIWidgetRoutersName[2]),
   ItemData(UIWidgetRoutersName[3], Icons.list, UIWidgetRoutersName[3]),
   ItemData(UIWidgetRoutersName[4], Icons.grid_on, UIWidgetRoutersName[4]),
-  ItemData(UIWidgetRoutersName[5], Icons.rotate_right, UIWidgetRoutersName[5]),
 ];
 
 //基础数据
