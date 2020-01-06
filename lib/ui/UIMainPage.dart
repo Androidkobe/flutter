@@ -47,6 +47,14 @@ final List<ItemData> dataList = [
   ItemData(UIWidgetRoutersName[2], Icons.view_quilt, UIWidgetRoutersName[2]),
   ItemData(UIWidgetRoutersName[3], Icons.list, UIWidgetRoutersName[3]),
   ItemData(UIWidgetRoutersName[4], Icons.grid_on, UIWidgetRoutersName[4]),
+  ItemData(UIWidgetRoutersName[5], Icons.aspect_ratio, UIWidgetRoutersName[5]),
+  ItemData(UIWidgetRoutersName[6], Icons.check_box_outline_blank, UIWidgetRoutersName[6]),
+  ItemData(UIWidgetRoutersName[7], Icons.center_focus_strong, UIWidgetRoutersName[7]),
+  ItemData(UIWidgetRoutersName[8], Icons.filter, UIWidgetRoutersName[8]),
+  ItemData(UIWidgetRoutersName[9], Icons.text_fields, UIWidgetRoutersName[9]),
+  ItemData(UIWidgetRoutersName[10], Icons.text_rotation_none, UIWidgetRoutersName[10]),
+  ItemData(UIWidgetRoutersName[11], Icons.input, UIWidgetRoutersName[11]),
+  ItemData(UIWidgetRoutersName[12], Icons.radio_button_unchecked, UIWidgetRoutersName[12]),
 ];
 
 //基础数据
