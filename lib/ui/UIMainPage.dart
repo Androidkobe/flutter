@@ -55,6 +55,7 @@ final List<ItemData> dataList = [
   ItemData(UIWidgetRoutersName[10], Icons.text_rotation_none, UIWidgetRoutersName[10]),
   ItemData(UIWidgetRoutersName[11], Icons.input, UIWidgetRoutersName[11]),
   ItemData(UIWidgetRoutersName[12], Icons.radio_button_unchecked, UIWidgetRoutersName[12]),
+  ItemData(UIWidgetRoutersName[13], Icons.add_to_queue, UIWidgetRoutersName[13]),
 ];
 
 //基础数据
